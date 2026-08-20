@@ -22,7 +22,7 @@
     "@types/archiver": "^6.0.3",
     "@types/bun": "^1.3.11",
     "@types/tar": "^6.1.13",
-    "archiver": "^7.0.1",
+    "archiver": "^8.0.0",
     "html-minifier": "^4.0.0",
     "lightningcss": "^1.24.1",
     "marked": "^12.0.1",
