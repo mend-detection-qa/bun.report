@@ -26,7 +26,7 @@
     "html-minifier": "^4.0.0",
     "lightningcss": "^1.24.1",
     "marked": "^12.0.1",
-    "octokit": "^3.2.0",
+    "octokit": "^4.0.0",
     "prettier": "^3.2.5",
     "tar": "^7.5.1",
     "typescript": "^5.0.0"
